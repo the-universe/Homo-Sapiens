@@ -75,9 +75,31 @@ Please note: It's considered best practice to spend at least twice as much time 
 * Calcium
 * Phosphorus
 
-## Contributing
+## Reporting Issues
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Homo Sapiens was originally designed to run on fewer than 10 million instances. Given there are currently 7.3 billion instances running **and** that the project adds 360,000 developers every day, it's no surprise that there are issues in the codebase.
+
+Before reporting an issue, please search to see if it's already being tracked. If you have a new issue, please add as many details as possible, including how to reproduce the issue. This template is preferred:
+
+```markdown
+# Summary
+
+Quick summary of the issue
+
+# How to reproduce
+
+1. Detail the starting conditions to reproduce the issue
+2. Describe the expected result/behavior
+3. Describe the unexpected result you are seeing
+
+# Ideas for resolution
+
+Provide at least one potential solution.
+```
+
+The project is committed first to identifying all outstanding issues, prioritizing the work and then assigning out teams to work on solutions. With the size of the community, we are able to pursue many independent projects and can tackle multiple avenues of resolution for each issue.
+
+Conflicts regarding how to address a particular issue are dealt with on the mailing list.
 
 ## Versioning
 
