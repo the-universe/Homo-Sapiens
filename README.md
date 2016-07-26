@@ -57,7 +57,7 @@ Fresh builds are only capable of sending very rudimentary [metadata via UDP usin
 
 Most instances ship with a networking toolbox that (once setup properly) enables effective communication with other nodes at up to 27.2 bytes per second through the auditory sensor.
 
-Possible updrades:
+Possible upgrades:
 
 * Removing the built-in encryption on auditory outputs
 * Installing a language (most developers use the same language pack they were initially installed with)
