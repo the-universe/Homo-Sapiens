@@ -22,7 +22,10 @@ Getting a working build of Homo Sapiens can be a little tricky. Follow these ste
 3. Deploy the chromosomes into the development box. There are a variety of methods available which [others have already explained](https://www.reddit.com/r/AskReddit/comments/1b4zc1/sex_ed_teachers_of_reddit_what_is_the/).
 4. Wait for the build to complete. This is a good time to [RTFM](https://smile.amazon.com/What-Expect-When-Youre-Expecting/dp/0761148574). There are some bugs in the build process and there's no status indicator. However, you can watch the process if you have the [right debugging tools](https://www.google.com/search?tbm=isch&as_q=ultrasound+pregnancy).
     1. During this time period, a unique key will be issued. While most developers expect this is simply a SHA4096 hash of the 46 input chromosome variables salted with an [unknown constant](https://en.wikipedia.org/wiki/Dimensionless_physical_constant), there are some who believe there is simply a [pool of keys which are reused after each instance halts](https://en.wikipedia.org/wiki/Reincarnation). Please keep discussions about this off the mailing list unless you have new information.
-5. If the build is successful, you'll have a new running copy of Homo Sapiens in about nine months. Congratulations! This instance only has a few processes running by default and installing new processes can be a pain, but [tutorials are available](https://smile.amazon.com/Baby-Book-Revised-Everything-Parenting/dp/0316198269).
+5. If the build is successful, you'll have a new running copy of Homo Sapiens in about forty weeks.<sup>1</sup> Congratulations! This instance only has a few processes running by default and installing new processes can be a pain, but [tutorials are available](https://smile.amazon.com/Baby-Book-Revised-Everything-Parenting/dp/0316198269).
+    1. Occasionally the status gets "stuck" at 99%. If this happens there is a way to 
+
+<sup>1</sup> This is *not* measured from when you deployed the chromosomes but from the last time the development box flushed it's cache.
 
 ### Prerequisities
 
