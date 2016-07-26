@@ -107,7 +107,7 @@ We use [Genealogy](https://en.wikipedia.org/wiki/Genealogy) for versioning. For 
 
 ## Authors
 
-* Unknown
+* Unknown (Due to [poor documentation](https://github.com/the-universe/Homo-Erectus) of original project.)
 
 See also the list of [contributors](https://github.com/the-universe/Homo-Sapiens/contributors) who participated in this project.
 
