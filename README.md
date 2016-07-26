@@ -113,4 +113,4 @@ See also the list of [contributors](https://github.com/the-universe/Homo-Sapiens
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
